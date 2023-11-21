@@ -1,0 +1,5 @@
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/googletest.dir
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRose.dir
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/GildedRoseTextTests.dir
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/ZERO_CHECK.dir

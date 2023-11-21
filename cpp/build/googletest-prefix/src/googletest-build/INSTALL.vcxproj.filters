@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Jakub\Documents\ProjectCpp\gildedrose-refactoring-kata\cpp\build\googletest-prefix\src\googletest-build\CMakeFiles\3b89c976e7bc00486ef77ad0ae78baba\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{66F18977-989D-3B5C-8178-0A0B6EA1C1C5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

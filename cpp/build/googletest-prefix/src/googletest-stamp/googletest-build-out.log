@@ -1,0 +1,21 @@
+MSBuild version 17.6.3+07e294721 for .NET Framework
+
+  1>Checking Build System
+  Building Custom Rule C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  Generowanie kodu...
+  gmock.vcxproj -> C:\Users\Jakub\Documents\ProjectCpp\gildedrose-refactoring-kata\cpp\build\googletest-prefix\src\googletest-build\lib\Debug\gmock.lib
+  Building Custom Rule C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googlemock/CMakeLists.txt
+  gtest-all.cc
+  gmock-all.cc
+  gmock_main.cc
+  Generowanie kodu...
+  gmock_main.vcxproj -> C:\Users\Jakub\Documents\ProjectCpp\gildedrose-refactoring-kata\cpp\build\googletest-prefix\src\googletest-build\lib\Debug\gmock_main.lib
+  Building Custom Rule C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/CMakeLists.txt
+  gtest-all.cc
+  gtest.vcxproj -> C:\Users\Jakub\Documents\ProjectCpp\gildedrose-refactoring-kata\cpp\build\googletest-prefix\src\googletest-build\lib\Debug\gtest.lib
+  Building Custom Rule C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/CMakeLists.txt
+  gtest_main.cc
+  gtest_main.vcxproj -> C:\Users\Jakub\Documents\ProjectCpp\gildedrose-refactoring-kata\cpp\build\googletest-prefix\src\googletest-build\lib\Debug\gtest_main.lib
+  Building Custom Rule C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/CMakeLists.txt

@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/googletest"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/e54def12da672ff3e25deabc57a7ad37/googletest.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/8886c838f7ee94569abf1894b4349172/googletest-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-build.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-download.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-install.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/CMakeFiles/0a08de585a6b99553402096c4f9776b2/googletest-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest"
+		],
+		"name" : "googletest"
+	}
+}

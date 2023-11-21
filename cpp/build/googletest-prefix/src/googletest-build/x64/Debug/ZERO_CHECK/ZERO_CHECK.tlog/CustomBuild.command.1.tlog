@@ -1,0 +1,10 @@
+^C:\USERS\JAKUB\DOCUMENTS\PROJECTCPP\GILDEDROSE-REFACTORING-KATA\CPP\BUILD\GOOGLETEST-PREFIX\SRC\GOOGLETEST-BUILD\CMAKEFILES\3B89C976E7BC00486EF77AD0AE78BABA\GENERATE.STAMP.RULE
+setlocal
+"D:\Visual Studio\cmake-3.28.0-rc4-windows-x86_64\bin\cmake.exe" -SC:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest -BC:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest-build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest-build/googletest-distribution.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

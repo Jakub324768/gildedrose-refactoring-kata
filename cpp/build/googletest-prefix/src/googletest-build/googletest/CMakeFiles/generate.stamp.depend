@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/CMakeLists.txt
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/cmake/Config.cmake.in
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/cmake/gtest.pc.in
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/cmake/gtest_main.pc.in
+C:/Users/Jakub/Documents/ProjectCpp/gildedrose-refactoring-kata/cpp/build/googletest-prefix/src/googletest/googletest/cmake/internal_utils.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/CMakePackageConfigHelpers.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/CheckCSourceCompiles.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/CheckIncludeFile.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/CheckLibraryExists.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/FindPackageHandleStandardArgs.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/FindPackageMessage.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/FindPython/Support.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/FindPython3.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/FindThreads.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/Internal/CheckSourceCompiles.cmake
+D:/Visual Studio/cmake-3.28.0-rc4-windows-x86_64/share/cmake-3.28/Modules/WriteBasicConfigVersionFile.cmake
